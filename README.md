@@ -12,6 +12,16 @@ https://roadmap.sh/projects/ec2-instance
 
 ![image](https://github.com/user-attachments/assets/ae1ca445-85df-4657-a0cf-4191f9262312)
 
+-----
+https://roadmap.sh/projects/basic-dockerfile
+1. Create Dockerfile
+- ![image](https://github.com/user-attachments/assets/158f46fc-26d1-443b-b59b-d7c8daf63b9c)
+2. Build and run docker image
+- ![image](https://github.com/user-attachments/assets/74250d24-272d-40ed-bbff-772d272b94e4)
+
+
+
+
 
 
 
